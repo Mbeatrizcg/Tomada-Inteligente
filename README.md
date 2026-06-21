@@ -1,2 +1,16 @@
-# Tomada-Inteligente
-Projeto realizado para a disciplina de Sistemas Digitais em 2026.1
+# Tomada Inteligente
+
+**Autores:** 
+Débora Medeiros da Silva Cabral
+
+Luisa M Galvão Mathias
+
+Maria Beatriz da Costa Gonçalves
+
+Matheus Pereira de Paula
+
+**Disciplina:** Sistemas Digitais (DCA3704)
+
+**Curso:** Engenharia da Computação
+
+**Instituição:** Universidade Federal do Rio Grande do Norte (UFRN)
