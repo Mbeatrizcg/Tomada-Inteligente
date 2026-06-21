@@ -10,7 +10,7 @@ Maria Beatriz da Costa Gonçalves
 
 Matheus Pereira de Paula
 
-**Disciplina:** Sistemas Digitais (DCA3704)
+**Disciplina:** Sistemas Digitais (DCA3301.0)
 
 **Curso:** Engenharia da Computação
 
