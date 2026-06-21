@@ -1,6 +1,7 @@
 # Tomada Inteligente
 
 **Autores:** 
+
 Débora Medeiros da Silva Cabral
 
 Luisa M Galvão Mathias
